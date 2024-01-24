@@ -1,1 +1,13 @@
 Encapsulation is defined as the wrapping up of data & methods under a single unit. It also implements data hiding.
+
+Constructors
+Constructor is a special method which is invoked automatically at the time of object creation.
+- Constructors have the same name as class or structure.
+- Constructors don't have a return type. (Not even void)
+- Constructors are only called once, at object creation.
+- Memory allocation happens when constructor is called.
+
+Types of Constructors:
+Non-parameterized
+parameterized
+Copy Constructor
