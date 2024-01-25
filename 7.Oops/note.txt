@@ -11,3 +11,41 @@ Types of Constructors:
 Non-parameterized
 parameterized
 Copy Constructor
+
+Shallow Copy(copying reference) and Deep Copy(copying value)
+
+Destructors - we don't write destructor in java because there is garbage collector which automatically delete unused object from memory.
+
+Inheritance - Inheritance is when properties and methods of base class are passed on to a derived class.
+Types of Inheritance
+1. Single Level Inheritance 
+    Base Class ----> Derived Class
+2. Multi Level Inheritance
+    Base Class ----> Derived Class ----> Derived Class
+3. Hierarchial Inheritance
+    single base class and multiple derived class from it
+    Base Class ----> (Derived Class1, Derived Class2 ,...)
+4. Hybrid Inheritance
+    from single base class multiple derived class and from each derived class have derived class
+
+Multiple Inheritance not supported in java by class but supported through interfaces.
+
+Polymorphism (multiple forms with similar type of work)
+- Compile Time Polymorphism(static)-> Method Overloading
+- Run Time Polymorphism(dynamic)-> Method Overriding
+
+Method Overloading -> Multiple functions with the same name but different parameters
+Method Overriding -> Parent and child classes both contain the same function with a different definition.
+(in case of overriding child class object call function of child class)
+
+Packages in Java -> Package is a group of similar types of classes, interfaces and sub-packages.
+import java.packageName.* (importing inbuilt package of java)
+package myPackage (user defined package)
+
+Abstraction -> Hiding all the unnecessary details and showing only the important pats to the user.
+(it can be implement using Abstract Classes or Interfaces)
+
+Abstract Class
+- Cannot create an instance of abstract class
+- Can have abstract/non-abstract methods
+- Can have constructors

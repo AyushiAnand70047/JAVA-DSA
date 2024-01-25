@@ -1,0 +1,11 @@
+Static Keyword
+-> static keyword in java is used to share the same variable or method of a given class.
+- Properties, Functions, Blocks, Nested Classes can be static
+
+this keyword refer to current object
+
+Super Keyword
+-> super keyword is used to refer immediate parent class object.
+- to access parent's Properties
+- to access parent's Functions
+- to access parent's constructor

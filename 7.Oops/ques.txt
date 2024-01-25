@@ -1,0 +1,27 @@
+1. Which of the following modifiers are not allowed in front of class
+   a. private
+   b. protected
+   c. public
+   d. default
+Ans - class can't be private, protected
+
+Nested Class, Constructor, Method, Field can be private, default, protected, public.
+
+2. Which of the following is a correct statement?(both classes in same package)
+class Vehicle{}
+class Car extends Vehicle {}
+   a. Car c = new Car();
+   b. Vehicle v = new Vehicle();
+   c. Vehicle v = new Car();
+   d. Car c = new Vechile();
+Ans - a,b,c is correct
+
+child object can be assigned in reference of parent but vice versa is not true
+
+3. Which of the following is not an OOPS component?
+   a. Inheritance
+   b. Encapsulation
+   c. Polymorphism
+   d. Aggregation
+Ans - d (OOPS components are Abstraction, Encapsulation, Inheritance, Polymorphism)
+
