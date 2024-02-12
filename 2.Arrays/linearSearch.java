@@ -1,3 +1,5 @@
+// find the index of element in a given array
+
 public class linearSearch{
     public static void search(int arr[],int key){
         int count = 0;
