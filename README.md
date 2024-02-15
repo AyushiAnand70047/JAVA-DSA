@@ -1,6 +1,6 @@
 # # DSA using java
 # Topics
-1. **Patterns**                                                                 - Nested Loops(Star Pattern)                                               - Inverted Star Pattern                                                    - Half Pyramid Pattern                                                     - Character Pattern                                                        - Hollow Rectangle Pattern                                                 - Inverted & Rotated Half Pyramid                                          - Floyd's Triangle Pattern                                                 - 0-1 Triangle Pattern                                                     - Butterfly Pattern  
+1. **Patterns**                                                            - Nested Loops(Star Pattern), Inverted Star Pattern, Half Pyramid Pattern, Character Pattern, Hollow Rectangle Pattern, Inverted & Rotated Half Pyramid, Floyd's Triangle Pattern, 0-1 Triangle Pattern, Butterfly Pattern, Solid Rhombus Pattern, Hollow Rhombus Pattern, Diamond Pattern
  2. **Arrays**
 3. **Sorting Algorithm**
 4. **2D Arrays**
