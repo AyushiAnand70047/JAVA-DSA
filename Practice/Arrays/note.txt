@@ -1,0 +1,8 @@
+Array: Array is the list of element of the same type placed in a contiguous memory location.
+
+Creating an Array:
+dataType arrayName[] = new dataType[size];
+
+Passing arrays as arguments: pass by refernece (changes in array after passing to function will reflect in main function also)
+
+Passing variable as arguments: pass by value (changes in value after passing to function will not reflect in main function)
