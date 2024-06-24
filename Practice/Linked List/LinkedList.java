@@ -39,7 +39,7 @@ public class LinkedList{
             addFirst(data);
             return;
         }
-        Node newNode = new Node(data);
+        Node newNode = new Node(data); 
         size++;
         Node temp = head;
         int i = 0;
